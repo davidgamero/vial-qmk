@@ -53,3 +53,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 // homerow mods
 #define IGNORE_MOD_TAP_INTERRUPT
+#define TAPPING_TERM 200
