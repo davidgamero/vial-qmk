@@ -22,6 +22,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #define MASTER_LEFT
 #define MASTER_RIGHT
 
+#define POINTING_DEVICE_INVERT_X
 #define EE_HANDS
-
-#define POINTING_DEVICE_INVERT_Y

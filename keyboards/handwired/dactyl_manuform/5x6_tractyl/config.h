@@ -48,7 +48,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define SPLIT_POINTING_ENABLE
 #define POINTING_DEVICE_RIGHT
 #define PMW3360_CPI 200
-#define POINTING_DEVICE_INVERT_Y
 #define POINTING_DEVICE_GESTURES_CURSOR_GLIDE_ENABLE
 
 // homerow mods
